@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": 1186279686259,
+      "title": "Orange T-shirt A33",
+      "body_html": "Nice T-Shirt",
+      "vendor": "sd-test-shop",
+      "product_type": "",
+      "created_at": "2018-07-07T13:50:39-04:00",
+      "handle": "orange-t-shirt-a33",
+      "updated_at": "2018-07-07T13:50:45-04:00",
+      "published_at": "2018-07-07T13:49:11-04:00",
+      "template_suffix": null,
+      "tags": "",
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Product/1186279686259",
+      "variants": [
+        {
+          "id": 12162400911475,
+          "product_id": 1186279686259,
+          "title": "Default Title",
+          "price": "330.00",
+          "sku": "22",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "200.00",
+          "fulfillment_service": "manual",
+          "inventory_management": null,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2018-07-07T13:50:39-04:00",
+          "updated_at": "2018-07-07T13:50:39-04:00",
+          "taxable": true,
+          "barcode": "UPC",
+          "grams": 33000,
+          "image_id": null,
+          "inventory_quantity": 1,
+          "weight": 33,
+          "weight_unit": "kg",
+          "inventory_item_id": 12306044289139,
+          "old_inventory_quantity": 1,
+          "requires_shipping": true,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/12162400911475"
+        }
+      ],
+      "options": [
+        {
+          "id": 1953312997491,
+          "product_id": 1186279686259,
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ],
+      "images": [
+        {
+          "id": 3960027381875,
+          "product_id": 1186279686259,
+          "position": 1,
+          "created_at": "2018-07-07T13:50:45-04:00",
+          "updated_at": "2018-07-07T13:50:45-04:00",
+          "alt": null,
+          "width": 412,
+          "height": 470,
+          "src":
+            "https://cdn.shopify.com/s/files/1/0090/8129/0867/products/T-shirt-O.jpeg?v=1530985845",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/3960027381875"
+        }
+      ],
+      "image": {
+        "id": 3960027381875,
+        "product_id": 1186279686259,
+        "position": 1,
+        "created_at": "2018-07-07T13:50:45-04:00",
+        "updated_at": "2018-07-07T13:50:45-04:00",
+        "alt": null,
+        "width": 412,
+        "height": 470,
+        "src":
+          "https://cdn.shopify.com/s/files/1/0090/8129/0867/products/T-shirt-O.jpeg?v=1530985845",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/3960027381875"
+      }
+    },
+    {
+      "id": 1186210152563,
+      "title": "White T-Shirt A33",
+      "body_html": "Nice T-shirt",
+      "vendor": "sd-test-shop",
+      "product_type": "",
+      "created_at": "2018-07-07T13:40:24-04:00",
+      "handle": "light-blue-t-shirt-a32",
+      "updated_at": "2018-07-07T13:41:43-04:00",
+      "published_at": "2018-07-07T13:39:08-04:00",
+      "template_suffix": null,
+      "tags": "",
+      "published_scope": "web",
+      "admin_graphql_api_id": "gid://shopify/Product/1186210152563",
+      "variants": [
+        {
+          "id": 12161851293811,
+          "product_id": 1186210152563,
+          "title": "Default Title",
+          "price": "300.00",
+          "sku": "3",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "200.00",
+          "fulfillment_service": "manual",
+          "inventory_management": null,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2018-07-07T13:40:24-04:00",
+          "updated_at": "2018-07-07T13:41:43-04:00",
+          "taxable": true,
+          "barcode": "UPC",
+          "grams": 30,
+          "image_id": null,
+          "inventory_quantity": 1,
+          "weight": 30,
+          "weight_unit": "g",
+          "inventory_item_id": 12305494278259,
+          "old_inventory_quantity": 1,
+          "requires_shipping": true,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/12161851293811"
+        }
+      ],
+      "options": [
+        {
+          "id": 1953217642611,
+          "product_id": 1186210152563,
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ],
+      "images": [
+        {
+          "id": 3959827234931,
+          "product_id": 1186210152563,
+          "position": 1,
+          "created_at": "2018-07-07T13:41:00-04:00",
+          "updated_at": "2018-07-07T13:41:16-04:00",
+          "alt": null,
+          "width": 412,
+          "height": 470,
+          "src":
+            "https://cdn.shopify.com/s/files/1/0090/8129/0867/products/T-shirt-w.jpeg?v=1530985276",
+          "variant_ids": [],
+          "admin_graphql_api_id": "gid://shopify/ProductImage/3959827234931"
+        }
+      ],
+      "image": {
+        "id": 3959827234931,
+        "product_id": 1186210152563,
+        "position": 1,
+        "created_at": "2018-07-07T13:41:00-04:00",
+        "updated_at": "2018-07-07T13:41:16-04:00",
+        "alt": null,
+        "width": 412,
+        "height": 470,
+        "src":
+          "https://cdn.shopify.com/s/files/1/0090/8129/0867/products/T-shirt-w.jpeg?v=1530985276",
+        "variant_ids": [],
+        "admin_graphql_api_id": "gid://shopify/ProductImage/3959827234931"
+      }
+    }
+  ]
+}
